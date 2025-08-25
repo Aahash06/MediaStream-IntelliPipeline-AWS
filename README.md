@@ -4,6 +4,10 @@
 ## 📊 Project Overview
 MediaStream-IntelliPipeline is a cloud-native big data analytics solution designed to deliver real-time and batch insights from large-scale media consumption data. Built by Aahash Kamble, this project leverages AWS services and modern data lake architecture to help media companies optimize programming, ad placements, and user engagement.
 
+## 🧭 Architecture Diagram
+<img width="1048" height="540" alt="Mediastream Digram" src="https://github.com/Aahash06/MediaStream-IntelliPipeline-AWS/blob/main/Mediastream%20Digram.png" />
+
+
 ## 🚀 Features
 - Real-time ingestion of viewership logs using Amazon Kinesis
 - Batch processing of demographics, ad revenue, and channel metadata
